@@ -1,0 +1,14 @@
+This is a app where user can 
+- create a new post
+- edit an existing post
+- delete post 
+- read any post 
+
+Note:
+to run this project correctly, one needs to
+- npm run db
+- npm run tunnel
+- ngrok http 3000(the port where one wants to run the project)
+
+
+
